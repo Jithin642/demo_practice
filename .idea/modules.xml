@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo.iml" filepath="$PROJECT_DIR$/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designPatterns/designPatterns.iml" filepath="$PROJECT_DIR$/designPatterns/designPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecommerceapp/ecommerceapp.iml" filepath="$PROJECT_DIR$/ecommerceapp/ecommerceapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/flipkart/flipkart.iml" filepath="$PROJECT_DIR$/practice/flipkart/flipkart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interview/interview.iml" filepath="$PROJECT_DIR$/interview/interview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multithreading/multithreading.iml" filepath="$PROJECT_DIR$/multithreading/multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/practice.iml" filepath="$PROJECT_DIR$/practice/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/snakeandladder/snakeandladder.iml" filepath="$PROJECT_DIR$/practice/snakeandladder/snakeandladder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/tictactoe/tictactoe.iml" filepath="$PROJECT_DIR$/practice/tictactoe/tictactoe.iml" />
+    </modules>
+  </component>
+</project>
